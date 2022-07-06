@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "pic": "https://media.istockphoto.com/photos/old-wooden-chair-picture-id1288259097?b=1&k=20&m=1288259097&s=170667a&w=0&h=J6H9f5HTSNxxlf5ffiRpYZWQakQENYWXmUhg8XaBjBk=",
+      "price": 1686,
+      "name": "Cool Old chair"
+    },
+    {
+      "id": "2",
+      "pic": "https://www.dan-form.com/media/d5iiuemc/arch-chair-pebble-green-boucle-fabric-with-black-metal-legs-100205105-01-main.png?width=1920&mode=crop&heightratio=1",
+      "price": 4439,
+      "name": "Stylish old Chair"
+    },
+    {
+      "id": "3",
+      "pic": "https://thermaltake.azureedge.net/pub/media/catalog/product/cache/6bf0ed99c663954fafc930039201ed07/x/c/xcomfort_blackred01.jpg",
+      "price": 2157,
+      "name": "Gaming Chair"
+    },
+    {
+      "id": "4",
+      "pic": "https://5.imimg.com/data5/OJ/KK/MY-27863029/web-plastic-chairs-500x500.jpg",
+      "price": 1714,
+      "name": "Plastic Chair"
+    },
+    {
+      "id": "5",
+      "pic": "https://www.ikea.com/gb/en/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg?f=s",
+      "price": 1542,
+      "name": "Office Chair"
+    },
+    {
+      "id": "6",
+      "pic": "https://cdn.shopify.com/s/files/1/1461/0984/products/aarnio_originals_ballchair_grey11_1200x.png?v=1619786895",
+      "price": 3241,
+      "name": "Ball Chair"
+    },
+    {
+      "id": "7",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyS35qm_eUnqoCbXRczy7KLS7-EPkZGrSUrA&usqp=CAU",
+      "price": 1079,
+      "name": "Interviewing Chair"
+    },
+    {
+      "id": "8",
+      "pic": "https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/87344_XXX_v1.tif&qlt=50&wid=650&cvt=jpeg",
+      "price": 4117,
+      "name": "Sofa"
+    },
+    {
+      "id": "9",
+      "pic": "https://www.ikea.com/my/en/images/products/stefan-chair-brown-black__0727320_pe735593_s5.jpg?f=s",
+      "price": 4359,
+      "name": "Dinning Chair"
+    }
+  ]

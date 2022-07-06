@@ -1,0 +1,12 @@
+.card img{
+    height: 300px;
+    width: 300px;
+}
+.btn{
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+}
+.btn-txt{
+    margin-right: 10px;
+}
